@@ -303,7 +303,7 @@
 | ✅ | mohawk | myst | Myst | TrivialBalderdash |
 | ⬜️ | mohawk | makingofmyst | The Making of Myst | |
 | ✅ | mohawk | riven | Riven: The Sequel to Myst | TrivialBalderdash |
-| ⬜️ | mohawk | greeneggs | Green Eggs and Ham | |
+| ✅ | mohawk | greeneggs | Green Eggs and Ham | romadu |
 | ⬜️ | mohawk | seussabc | Dr Seuss's ABC | |
 | ⬜️ | mohawk | tortoise | Aesop's Fables: The Tortoise and the Hare | |
 | ✅ | mohawk | arthur | Arthur's Teacher Trouble | mileso |
